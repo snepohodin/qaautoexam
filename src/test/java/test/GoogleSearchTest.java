@@ -17,7 +17,7 @@ public class GoogleSearchTest extends BaseTest {
 
         GoogleSearchResultPage googleSearchResultPage = googleHomePage.search("Selenium");
         Assert.assertTrue(googleSearchResultPage.isLoaded(),"Google search page is not loaded.");
-        Assert.assertEquals(googleSearchResultPage.getSearchResultsCount(), 11, "Search result count is wrong for the first page.");
+        Assert.assertEquals(googleSearchResultPage.getSearchResultsCount(), 10, "Search result count is wrong for the first page.");
 
         List <String> searchResultsForFirstPage = googleSearchResultPage.getSearchResultsList();
 
