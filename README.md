@@ -7,6 +7,8 @@ Java/WebDriver sample project
  3. Download and install the latest version of FireFox browser
  4. Download and install the latest version of [geckodriver](https://github.com/mozilla/geckodriver/releases/) for your system
  5. Unzip downloaded [geckodriver](https://github.com/mozilla/geckodriver/releases/) to your _system32_ folder
+ 6. Download and install the latest version of Chrome driver  [chromedriver](http://chromedriver.chromium.org/downloads) for your system
+ 7. Unzip downloaded [chromedriver](http://chromedriver.chromium.org/downloads) to your _system32_ folder
 
 **Project description:**
 
