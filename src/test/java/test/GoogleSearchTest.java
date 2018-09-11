@@ -11,7 +11,7 @@ public class GoogleSearchTest extends BaseTest {
 
     @Test
     public void successfulSearchTest() {
-        String searchTerm = "Sele";
+        String searchTerm = "Selenium";
 
         Assert.assertTrue(googleHomePage.isLoaded(),"Google home page is not loaded.");
 
