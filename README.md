@@ -9,10 +9,12 @@ Java/WebDriver sample project
  5. Unzip downloaded [geckodriver](https://github.com/mozilla/geckodriver/releases/) to your _system32_ folder
 
 **Project description:**
+
 page package - folder with pageObjects for each page where BasePage is a parent class for Page classes.
 test package - folder with test classes where BaseTest is a parent class for Test classes.
 
 **ToDo list if you want to run test from console:**
+
 Write next command in Terminal from intelijIdea:
 D:\apache-maven-3.5.4\bin\mvn clean install
 
