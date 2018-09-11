@@ -21,6 +21,8 @@ Write next command in Terminal from intelijIdea:
 D:\apache-maven-3.5.4\bin\mvn clean install
 
 If you will have an error please do next:
-Go to PC > properties > advanced system settings -> Add properties -> and create new variable here.
+Go to PC > properties > advanced system settings -> Add properties -> and create new variable here:
+
 Variable name: JAVA_HOME
+
 Variable value: C:\Program Files\Java\jdk-10.0.1
